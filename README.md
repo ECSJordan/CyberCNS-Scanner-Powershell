@@ -1,4 +1,4 @@
-# CyberCNS_Scanner
+# CyberCNS-Scanner-Powershell
 
 Powershell script that scans some stuff
 
