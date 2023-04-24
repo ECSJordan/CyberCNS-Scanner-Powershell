@@ -14,3 +14,4 @@ Powershell script that scans some stuff
 
 * Add External Scan functionality (waiting CyberCNS team to add)
 * Add option to save output from scans locally, currently only displays at runtime with an `Out-GridView` popup
+* Increase customization of scan types
